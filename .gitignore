@@ -1,0 +1,11 @@
+# Datasets (downloaded automatically by the notebook)
+data/
+
+# Trained models and saved results (large; recreated by the notebook)
+*.pth
+*.npy
+
+# Notebook and system clutter
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
